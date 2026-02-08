@@ -1,0 +1,10 @@
+.post-content h2 {
+    background-image: linear-gradient(90deg, var(--content) 0%, var(--content) 100%);
+
+    background-repeat: no-repeat;
+    background-size: 100% 4px;
+    background-position: bottom;
+
+    margin-top: 2em;
+    padding-bottom: 4px;
+}
