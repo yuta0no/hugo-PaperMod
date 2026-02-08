@@ -1,0 +1,7 @@
+:lang(en) body {
+    font-family: "Roboto", sans-serif;
+}
+
+:lang(ja) body {
+    font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", sans-serif;
+}
